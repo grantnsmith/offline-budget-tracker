@@ -3,7 +3,7 @@ An excercise in adding offline functionality to a pre-built budget tracker appli
 
 ## Links
 
-[Deployed Application:](https://gnsmith-offline-budget-tracker.herokuapp.com/)
+[Deployed Application](https://gnsmith-offline-budget-tracker.herokuapp.com/)
 
 ## Technologies Used
 
